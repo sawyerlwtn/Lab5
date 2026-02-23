@@ -1,12 +1,46 @@
+.site-header {
+    padding: 20px 20px;
+    text-align: center;
+    background-color: #ffffff;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
 body { 
     margin: 0; 
     padding: 0; 
 }
 
+/* 1. This is the ANCHOR for the button */
+.map-wrapper {
+    position: relative; 
+    width: 100%;
+}
+
 #map { 
-    position: absolute; 
-    top: 0; 
-    bottom: 0; 
-    width: 100%; 
-    height: 100vh; /* This ensures it fills the viewport height */
+    position: relative; 
+    width: 100%;
+    height: 600px;      
+    margin-bottom: 50px; 
+}
+
+/* 2. Changed from FIXED to ABSOLUTE */
+.tour-button {
+    display: none;
+    position: absolute; /* Pinned to the top-left of .map-wrapper */
+    top: 20px;
+    left: 20px;
+    z-index: 10; 
+    padding: 12px 24px;
+    background-color: #ff5500;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: sans-serif;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.tour-button:hover {
+    background-color: #e64d00;
 }
