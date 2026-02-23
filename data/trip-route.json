@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 1"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -0.12726167494949436,
+            51.49986287114746
+          ],
+          [
+            2.3498493077337343,
+            48.85244384952043
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 2"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.3528073343685776,
+            48.852068947153754
+          ],
+          [
+            4.898017843762091,
+            52.369380456672985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 3"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.896465378314758,
+            52.37159109858055
+          ],
+          [
+            13.395076841120442,
+            52.5098419988999
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 4"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            13.399276733565642,
+            52.50960203393612
+          ],
+          [
+            14.424987214806066,
+            50.082152484616614
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 5"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            14.425304584321339,
+            50.081979689286555
+          ],
+          [
+            16.375591000396753,
+            48.20317507663694
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 6"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            16.37670637690553,
+            48.203057308339
+          ],
+          [
+            11.573776023572606,
+            48.13616331960276
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 7"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            11.574148517721966,
+            48.13609310536958
+          ],
+          [
+            8.539870880439139,
+            47.372419991516665
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 8"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            8.540043617423464,
+            47.37229955248918
+          ],
+          [
+            12.486414422620953,
+            41.8898379160382
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 9"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            12.486414422620953,
+            41.8898379160382
+          ],
+          [
+            11.255777880709559,
+            43.76833982055797
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 10"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            11.259558544412414,
+            43.765609939373064
+          ],
+          [
+            9.193147909880935,
+            45.4647369085566
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 11"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            9.193147281678193,
+            45.46193823508369
+          ],
+          [
+            2.180128010657995,
+            41.38279632228827
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trip Legs": "Leg 12"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.180138837225286,
+            41.38275787056398
+          ],
+          [
+            -3.7063157876907837,
+            40.41428171599344
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
